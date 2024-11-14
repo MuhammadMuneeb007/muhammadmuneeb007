@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Muneeb 👋
 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadMuneeb007&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuneeb007&layout=compact&theme=transparent)
+
 
 ## 🔭 I'm currently working on:
 - Developing **PRSTools** for polygenic risk score calculations and genomic research.
@@ -23,6 +23,8 @@
  
 
 ## 🛠️ Technologies & Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuneeb007&layout=compact&theme=transparent)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
