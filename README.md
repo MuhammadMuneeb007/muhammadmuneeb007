@@ -1,7 +1,5 @@
 # Hi there, I'm Muhammad Muneeb 👋
-
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadMuneeb007&show_icons=true&theme=transparent)
-
+ 
 
 ## 🔭 I'm currently working on:
 - Developing **PRSTools** for polygenic risk score calculations and genomic research.
