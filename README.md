@@ -43,18 +43,14 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadMuneeb007&theme=radical&column=7)
 
 ## ⚡ Fun fact:
-- I enjoy reading about **genetic mutations** and their implications on human health.
-- I also love playing **chess** and solving **puzzles** in my free time.
-
+- return NaN
 ---
 
 ### Contributions
-
 ![Muhammad's streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuneeb007&theme=radical)
 
 ---
 
 ### Visitors:
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMuneeb007&label=Profile%20Views&color=brightgreen)
 
