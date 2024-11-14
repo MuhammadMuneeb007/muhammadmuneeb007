@@ -16,7 +16,7 @@
 - **Machine Learning** in healthcare and genetics.
 
 ## 📫 How to reach me:
-- Email: [muneebsiddique007.com](mailto:muneebsiddique007@gmail.com)
+- Email: [muneebsiddique007@gmail.com](mailto:muneebsiddique007@gmail.com)
  
  
 
